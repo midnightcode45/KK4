@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EBook</string>
+    <string name="tunggu_sebentar">Tunggu Sebentar</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="enter">Enter</string>
+</resources>
